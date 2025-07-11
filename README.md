@@ -1,4 +1,14 @@
 # React + Vite
+# GTA 6 🚗🔥  
+A React.js-based project inspired by the upcoming Grand Theft Auto 6. Built to demonstrate modern front-end development techniques, this project includes dynamic routing, responsive design, and clean UI components.
+
+## Features
+- ⚛️ Built with React 18
+- 🎨 Styled with Tailwind CSS / CSS Modules
+- 🚀 Fully responsive and interactive UI
+- 🔄 Uses React Router for navigation
+- 🧩 Component-based architecture
+
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
