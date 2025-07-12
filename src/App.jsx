@@ -138,7 +138,7 @@ function App() {
               </div>
             </div>
 
-            <div className="imagesdiv relative overflow-hidden w-full h-screen">
+            <div className="imagesdiv relative overflow-hidden w-full h-screen ">
               <img
                 className="absolute sky scale-[1.5] rotate-[-20deg] top-0 left-0 w-full h-full object-cover"
                 src="./sky.png"
@@ -155,7 +155,7 @@ function App() {
                 <h1 className="text-[12rem] leading-none -ml-40">auto</h1>
               </div>
               <img
-                className="absolute character -bottom-[150%] left-1/2 -translate-x-1/2  scale-[3] rotate-[-20deg]"
+                className="absolute character h-screen -bottom-[100%]  left-1/2 -translate-x-1/2   scale-[3] rotate-[-20deg]"
                 src="./girlbg.png"
                 alt=""
               />
@@ -183,7 +183,7 @@ function App() {
                   alt=""
                 />
               </div>
-              <div className="rg w-[30%] py-30">
+              <div className="rg w-[100%] py-5 ">
                 <h1 className="text-8xl">Still Running,</h1>
                 <h1 className="text-8xl">Not Hunting</h1>
                 <p className="mt-10 text-xl font-[Helvetica_Now_Display]">
@@ -206,7 +206,7 @@ function App() {
                   eveniet eaque, dicta, hic quisquam? Ex cupiditate ipsa nostrum
                   autem sapiente.
                 </p>
-                <button className="bg-yellow-500 px-10 py-10 text-black mt-10 text-4xl">
+                <button className="bg-yellow-500 px-5 py-5 text-black mt-10 text-4xl">
                   Download Now
                 </button>
               </div>
