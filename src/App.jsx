@@ -186,7 +186,7 @@ function App() {
               <div className="rg w-[150%] py-5 ">
                 <h1 className="text-8xl">Still Running,</h1>
                 <h1 className="text-8xl">Not Hunting</h1>
-                <p className="mt-10 text-xl font-[Helvetica_Now_Display]">
+                <p className="mt-10 text-xl font-[HelveticaNowDisplay]">
                   Lorem ipsum, dolor sit amet consectetur adipisicing elit.
                   Distinctio possimus, asperiores nam, omnis inventore nesciunt
                   a architecto eveniet saepe, ducimus necessitatibus at
