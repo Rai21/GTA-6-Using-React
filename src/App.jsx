@@ -183,7 +183,7 @@ function App() {
                   alt=""
                 />
               </div>
-              <div className="rg w-[100%] py-5 ">
+              <div className="rg w-[150%] py-5 ">
                 <h1 className="text-8xl">Still Running,</h1>
                 <h1 className="text-8xl">Not Hunting</h1>
                 <p className="mt-10 text-xl font-[Helvetica_Now_Display]">
